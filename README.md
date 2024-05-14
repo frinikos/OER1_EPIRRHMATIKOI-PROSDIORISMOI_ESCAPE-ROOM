@@ -1,4 +1,4 @@
-# OER1_EPIRRHMATIKOI-PROSDIORISMOI_ESCAPE-ROOM
+# OER1_«Επιρρηματικοί προσδιορισμοί - Άσκηση απόδρασης»
 
 https://frinikos.github.io/OER1_EPIRRHMATIKOI-PROSDIORISMOI_ESCAPE-ROOM/
 
