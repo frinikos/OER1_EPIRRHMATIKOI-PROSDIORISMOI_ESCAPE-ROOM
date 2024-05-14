@@ -1,6 +1,6 @@
 # OER1_«Επιρρηματικοί προσδιορισμοί - Άσκηση απόδρασης»
 
-https://frinikos.github.io/OER1_EPIRRHMATIKOI-PROSDIORISMOI_ESCAPE-ROOM/
+https://frinikos.github.io/OER1_EPIRRIMATIKOI-PROSDIORISMOI_ESCAPE-ROOM/
 
 Γνωστικό Αντικείμενο: Νεοελληνική Γλώσσα Α΄ Γυμνασίου, «Επιρρηματικοί προσδιορισμοί - Άσκηση απόδρασης».
 
